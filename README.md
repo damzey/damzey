@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on: [Datacamp Projects](https://github.com/damzey/datacamp_projects)
 
-- 🌱 I’m currently learning: **everything I need to become a Data Analyst**
+- 🌱 I’m currently learning: **SQL**
 
 - 👯 I’m looking to collaborate on: **data analysis projects**
 
-- 💬 Ask me about: **my projects**
+- 💬 Ask me about: **my projects and my repositories**
 
 - 📫 How to reach me: **doyinlade@gmail.com**
 
